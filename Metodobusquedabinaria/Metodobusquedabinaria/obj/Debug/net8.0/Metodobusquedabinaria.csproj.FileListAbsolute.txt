@@ -1,0 +1,14 @@
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\bin\Debug\net8.0\Metodobusquedabinaria.exe
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\bin\Debug\net8.0\Metodobusquedabinaria.deps.json
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\bin\Debug\net8.0\Metodobusquedabinaria.runtimeconfig.json
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\bin\Debug\net8.0\Metodobusquedabinaria.dll
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\bin\Debug\net8.0\Metodobusquedabinaria.pdb
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\obj\Debug\net8.0\Metodobusquedabinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\obj\Debug\net8.0\Metodobusquedabinaria.AssemblyInfoInputs.cache
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\obj\Debug\net8.0\Metodobusquedabinaria.AssemblyInfo.cs
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\obj\Debug\net8.0\Metodobusquedabinaria.csproj.CoreCompileInputs.cache
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\obj\Debug\net8.0\Metodobusquedabinaria.dll
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\obj\Debug\net8.0\refint\Metodobusquedabinaria.dll
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\obj\Debug\net8.0\Metodobusquedabinaria.pdb
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\obj\Debug\net8.0\Metodobusquedabinaria.genruntimeconfig.cache
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\Metodobusquedabinaria\Metodobusquedabinaria\obj\Debug\net8.0\ref\Metodobusquedabinaria.dll
