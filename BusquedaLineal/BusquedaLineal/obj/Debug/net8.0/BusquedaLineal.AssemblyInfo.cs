@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BusquedaLineal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+371faf1accc3349893455fa2588a13b1009653b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf835d5a476c382f2a579010069ac50a7851efa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BusquedaLineal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BusquedaLineal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

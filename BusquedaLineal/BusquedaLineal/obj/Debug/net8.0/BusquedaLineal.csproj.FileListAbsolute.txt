@@ -1,0 +1,15 @@
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\bin\Debug\net8.0\BusquedaLineal.exe
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\bin\Debug\net8.0\BusquedaLineal.deps.json
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\bin\Debug\net8.0\BusquedaLineal.runtimeconfig.json
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\bin\Debug\net8.0\BusquedaLineal.dll
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\bin\Debug\net8.0\BusquedaLineal.pdb
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.AssemblyInfoInputs.cache
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.AssemblyInfo.cs
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.csproj.CoreCompileInputs.cache
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.sourcelink.json
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.dll
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\refint\BusquedaLineal.dll
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.pdb
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\BusquedaLineal.genruntimeconfig.cache
+C:\Users\jomir\OneDrive\Documentos\projects_kt\MetodosBusquedaPIII\BusquedaLineal\BusquedaLineal\obj\Debug\net8.0\ref\BusquedaLineal.dll

@@ -1,4 +1,6 @@
-﻿namespace BusLi
+﻿using BusquedaLineal;
+
+namespace BusLi
 {
     class program
     {
@@ -9,11 +11,19 @@
             Console.WriteLine("El arreglo es: ");
             foreach (int i in num)
             {
-                Console.WriteLine(i + " , ");
+                Console.Write(i + " , ");
             }
 
             int x = 8;
+            int indice = BusquedaLineal.BusquedaLineal.linearSearch(num, x);
 
+            if(indice == -1)
+            {
+                Console.WriteLine("Busqueda erronea");
+            }else
+            {
+                Console.WriteLine("el elemento {0} existe en la posición {1} ", x, indice);
+            }
         }
     }
 }
